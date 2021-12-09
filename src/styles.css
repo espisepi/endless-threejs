@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100&display=swap");
+body {
+  overflow: hidden;
+  margin: 0;
+}
+#recluse {
+  display: block;
+  color: black;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-family: "Sora", sans-serif;
+  font-size: 10vh;
+  cursor: pointer;
+
+  text-decoration: none;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
